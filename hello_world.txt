@@ -1,3 +1,3 @@
 
 Hello World this is the second time I'm learning git, hope it sticks this time
-
+Added new piece of text to refresh memory on git
